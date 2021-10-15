@@ -1,6 +1,5 @@
 # 🪐 woowacourse
 
-<hr>
 
 ### **📚 [우아한테크코스](https://woowacourse.github.io/) 3기 백엔드 과정을 진행하면서 활동한 내용을 한 눈에 보기 쉽게 정리한 저장소입니다.**
 
@@ -11,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/45876793/137439663-c3bba170-d2c9-4d20-9fef-90ea78266d42.jpeg" width="45%" alt="techcourse_poster_3nd_white"> <img src="https://user-images.githubusercontent.com/45876793/137439650-064b7d56-db9a-451d-991b-819d865740a1.jpeg" width="45%" alt="techcourse_poster_3nd_black"> 
 </div>
 
----
+<br>
 
 ## **🌑 Level 0 - 프리코스 & 최종 코딩 테스트**
 
@@ -59,6 +58,8 @@
 - [[Java] 자바에서 제공하는 함수형 인터페이스](https://velog.io/@max9106/Java-%EC%9E%90%EB%B0%94%EC%97%90%EC%84%9C-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%ED%95%A8%EC%88%98%ED%98%95-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 </details>
 
+<br>
+
 ## **🌘 Level 1 - Java 학습하기**
 ### 🗓 기간
 - 2021.02.03 ~ 2021.04.02
@@ -76,7 +77,7 @@
 | 2 | 로또 | [java-lotto](https://github.com/KJunseo/java-lotto) | [step1](https://github.com/woowacourse/java-lotto/pull/268) | [step2](https://github.com/woowacourse/java-lotto/pull/297) | [샐리](https://github.com/dusdn1702) | [재연링](https://github.com/jaeyeonling) | 2021.02.16 ~ 2021.03.01 |
 | 3 | 블랙잭 | [java-blackjack](https://github.com/KJunseo/java-blackjack) | [step1](https://github.com/woowacourse/java-blackjack/pull/141) | [step2](https://github.com/woowacourse/java-blackjack/pull/183) | [피카](https://github.com/pika96) | [지노](https://github.com/hyunssooo) | 2021.03.02 ~ 2021.03.15 |
 | 4 | 체스 | [java-chess](https://github.com/KJunseo/java-chess) | [step1](https://github.com/woowacourse/java-chess/pull/190) | [step2](https://github.com/woowacourse/java-chess/pull/224) | [포츈](https://github.com/unluckyjung) | [코니](https://github.com/choihz) | 2021.03.16 ~ 2021.04.02 |
-| 5 | JS 투두리스트 1 | [js-todo-list-step1](https://github.com/KJunseo/js-todo-list-step1) | [step1](https://github.com/woowacourse/js-todo-list-step1/pull/18) | - | - | - | 2021-03-23 ~ 2021.03.26 |
+| 5 | JS 투두리스트 1 | [js-todo-list-step1](https://github.com/KJunseo/js-todo-list-step1) | [step1](https://github.com/woowacourse/js-todo-list-step1/pull/18) | - | - | - | 2021.03.23 ~ 2021.03.26 |
 | 6 | JS 투두리스트 2 | [js-todo-list-step2](https://github.com/KJunseo/js-todo-list-step2) | [step1](https://github.com/woowacourse/js-todo-list-step2/pull/6) | - | - | - | 2021.04.02 ~ 2021.04.3 |
 
 ### 📝 블로그 포스팅
@@ -149,6 +150,8 @@
 ### ✏️ 학습로그
 - [Level1 학습로그](https://prolog.techcourse.co.kr/KJunseo/posts?&levels=1)
 
+<br>
+
 ## **🌗 Level 2 - Spring 학습하기**
 
 ### 🗓 기간
@@ -210,6 +213,8 @@
 ### ✏️ 학습로그
 - [Level2 학습로그](https://prolog.techcourse.co.kr/KJunseo/posts?&levels=3)
 
+<br>
+
 ## **🌖 Level 3 - JPA & 팀 프로젝트**
 ### 🗓 기간
 - 2021.06.22 ~ 2021.08.13
@@ -264,6 +269,8 @@
 ### ✏️ 학습로그
 - [Level3 학습로그](https://prolog.techcourse.co.kr/KJunseo/posts?&levels=5)
 
+<br>
+
 ## **🌕 Level 4**
 
 ### 🗓 기간
@@ -310,9 +317,13 @@
 ### ✏️ 학습로그
 - [Level4 학습로그](https://prolog.techcourse.co.kr/KJunseo/posts?&levels=6)
 
+<br>
+
 ## **📺 테코톡**
 >'10분 테코톡'이란  우아한테크코스 과정을 진행하며 크루(수강생)들이 동료들과 학습한 내용을 공유하고 이야기하는 시간입니다. 서로가 성장하기 위해 지식을 나누고 대화하며 생각해보는 시간으로 자기 주도적인 성장을 지향하는 우아한테크코스의 문화 중 하나입니다.
 - [[10분 테코톡] 🏀 에어의 Spring vs Spring Boot](https://www.youtube.com/watch?v=Y11h-NUmNXI)
+
+<br>
 
 ## **✍🏻 글쓰기코스**
 >현장에서 필요한 글쓰기 능력을 향상시키기 위해 진행하는 우아한테크코스만의 문화입니다.
