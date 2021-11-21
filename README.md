@@ -290,7 +290,7 @@
 | 2 | MVC 프레임워크 구현하기 | [jwp-dashboard-mvc](https://github.com/KJunseo/jwp-dashboard-mvc) | [step1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/27) | [step2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/73) | - | - | [완태](https://github.com/wannte) | 2021.09.03 ~ 2021.09.16 |
 | 3 | JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc](https://github.com/KJunseo/jwp-dashboard-jdbc) | [step1](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/7) | - | - | - | [영이](https://github.com/choijy1705) | 2021.09.17 ~ 2021.09.28 |
 | 4 | 조회 성능 개선하기 | [sql-tuning](https://github.com/KJunseo/sql-tuning) | [step1](https://github.com/woowacourse/sql-tuning/pull/13) | - | -  | - | [아론](https://github.com/Sehwan-Jang) | 2021.10.05 ~ 2021.10.15 |
-| 5 | 레거시 코드 리팩터링 | [jwp-refactoring](https://github.com/KJunseo/jwp-refactoring) | [step1](https://github.com/woowacourse/jwp-refactoring/pull/102) | [step2](https://github.com/woowacourse/jwp-refactoring/pull/132) | - | - | [크로플](https://github.com/perenok) | 2021.10.13 ~ 2021.10.29 |
+| 5 | 레거시 코드 리팩터링 | [jwp-refactoring](https://github.com/KJunseo/jwp-refactoring) | [step1](https://github.com/woowacourse/jwp-refactoring/pull/102) | [step2](https://github.com/woowacourse/jwp-refactoring/pull/132) | [step3](https://github.com/woowacourse/jwp-refactoring/pull/177) | step4 | [크로플](https://github.com/perenok) | 2021.10.13 ~ 2021.10.29 |
 ### 📝 블로그 포스팅
 <details>
     <summary>미션을 하면서 새로 배운 내용</summary>
